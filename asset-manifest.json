@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/taskmanagerintronew/static/css/main.5d21c46a.css",
-    "main.js": "/taskmanagerintronew/static/js/main.dc531d34.js",
-    "static/js/787.e2a700d5.chunk.js": "/taskmanagerintronew/static/js/787.e2a700d5.chunk.js",
-    "static/media/feature_bg.jpg": "/taskmanagerintronew/static/media/feature_bg.05cee9c2251087d0faa8.jpg",
-    "static/media/footer_bg.jpg": "/taskmanagerintronew/static/media/footer_bg.911d555f7f7eb79b2fc9.jpg",
-    "static/media/twt_solidified.png": "/taskmanagerintronew/static/media/twt_solidified.11f47939d69d0f14e75b.png",
-    "static/media/insta.png": "/taskmanagerintronew/static/media/insta.ba4ee49117ba330d10ef.png",
-    "static/media/portfolio.png": "/taskmanagerintronew/static/media/portfolio.5c6a8503eecd3db21267.png",
-    "static/media/hero_bg.svg": "/taskmanagerintronew/static/media/hero_bg.658e3e94b29f1c90bfc8.svg",
-    "index.html": "/taskmanagerintronew/index.html",
-    "static/media/logo.svg": "/taskmanagerintronew/static/media/logo.e0d03c332735c667bf2488ec213390c3.svg",
-    "main.5d21c46a.css.map": "/taskmanagerintronew/static/css/main.5d21c46a.css.map",
-    "main.dc531d34.js.map": "/taskmanagerintronew/static/js/main.dc531d34.js.map",
-    "787.e2a700d5.chunk.js.map": "/taskmanagerintronew/static/js/787.e2a700d5.chunk.js.map"
+    "main.css": "/taskanaut/static/css/main.cbcf18a6.css",
+    "main.js": "/taskanaut/static/js/main.10882915.js",
+    "static/js/787.e2a700d5.chunk.js": "/taskanaut/static/js/787.e2a700d5.chunk.js",
+    "static/media/feature_bg.jpg": "/taskanaut/static/media/feature_bg.05cee9c2251087d0faa8.jpg",
+    "static/media/logo.svg": "/taskanaut/static/media/logo.1c48e7d28fd79fee9146d2fd567275f4.svg",
+    "static/media/footer_bg.jpg": "/taskanaut/static/media/footer_bg.911d555f7f7eb79b2fc9.jpg",
+    "static/media/twt_solidified.png": "/taskanaut/static/media/twt_solidified.11f47939d69d0f14e75b.png",
+    "static/media/insta.png": "/taskanaut/static/media/insta.ba4ee49117ba330d10ef.png",
+    "static/media/portfolio.png": "/taskanaut/static/media/portfolio.5c6a8503eecd3db21267.png",
+    "static/media/hero_bg.svg": "/taskanaut/static/media/hero_bg.658e3e94b29f1c90bfc8.svg",
+    "index.html": "/taskanaut/index.html",
+    "main.cbcf18a6.css.map": "/taskanaut/static/css/main.cbcf18a6.css.map",
+    "main.10882915.js.map": "/taskanaut/static/js/main.10882915.js.map",
+    "787.e2a700d5.chunk.js.map": "/taskanaut/static/js/787.e2a700d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d21c46a.css",
-    "static/js/main.dc531d34.js"
+    "static/css/main.cbcf18a6.css",
+    "static/js/main.10882915.js"
   ]
 }
