@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/taskanaut/static/css/main.cbcf18a6.css",
-    "main.js": "/taskanaut/static/js/main.9cca2030.js",
+    "main.js": "/taskanaut/static/js/main.d0341e95.js",
     "static/js/787.e2a700d5.chunk.js": "/taskanaut/static/js/787.e2a700d5.chunk.js",
     "static/media/feature_bg.jpg": "/taskanaut/static/media/feature_bg.05cee9c2251087d0faa8.jpg",
     "static/media/logo.svg": "/taskanaut/static/media/logo.1c48e7d28fd79fee9146d2fd567275f4.svg",
@@ -12,11 +12,11 @@
     "static/media/hero_bg.svg": "/taskanaut/static/media/hero_bg.658e3e94b29f1c90bfc8.svg",
     "index.html": "/taskanaut/index.html",
     "main.cbcf18a6.css.map": "/taskanaut/static/css/main.cbcf18a6.css.map",
-    "main.9cca2030.js.map": "/taskanaut/static/js/main.9cca2030.js.map",
+    "main.d0341e95.js.map": "/taskanaut/static/js/main.d0341e95.js.map",
     "787.e2a700d5.chunk.js.map": "/taskanaut/static/js/787.e2a700d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbcf18a6.css",
-    "static/js/main.9cca2030.js"
+    "static/js/main.d0341e95.js"
   ]
 }
